@@ -1,0 +1,32 @@
+c:\users\gençay\documents\visual studio 2015\Projects\Zamanlayici\Zamanlayici\bin\Debug\Zamanlayici.exe.config
+c:\users\gençay\documents\visual studio 2015\Projects\Zamanlayici\Zamanlayici\bin\Debug\Zamanlayici.exe
+c:\users\gençay\documents\visual studio 2015\Projects\Zamanlayici\Zamanlayici\bin\Debug\Zamanlayici.pdb
+c:\users\gençay\documents\visual studio 2015\Projects\Zamanlayici\Zamanlayici\bin\Debug\Common.Logging.Core.dll
+c:\users\gençay\documents\visual studio 2015\Projects\Zamanlayici\Zamanlayici\bin\Debug\Common.Logging.dll
+c:\users\gençay\documents\visual studio 2015\Projects\Zamanlayici\Zamanlayici\bin\Debug\Quartz.dll
+c:\users\gençay\documents\visual studio 2015\Projects\Zamanlayici\Zamanlayici\bin\Debug\Common.Logging.pdb
+c:\users\gençay\documents\visual studio 2015\Projects\Zamanlayici\Zamanlayici\bin\Debug\Common.Logging.xml
+c:\users\gençay\documents\visual studio 2015\Projects\Zamanlayici\Zamanlayici\bin\Debug\Common.Logging.Core.pdb
+c:\users\gençay\documents\visual studio 2015\Projects\Zamanlayici\Zamanlayici\bin\Debug\Common.Logging.Core.xml
+c:\users\gençay\documents\visual studio 2015\Projects\Zamanlayici\Zamanlayici\bin\Debug\Quartz.pdb
+c:\users\gençay\documents\visual studio 2015\Projects\Zamanlayici\Zamanlayici\bin\Debug\Quartz.xml
+c:\users\gençay\documents\visual studio 2015\Projects\Zamanlayici\Zamanlayici\obj\Debug\Zamanlayici.csprojResolveAssemblyReference.cache
+c:\users\gençay\documents\visual studio 2015\Projects\Zamanlayici\Zamanlayici\obj\Debug\Zamanlayici.exe
+c:\users\gençay\documents\visual studio 2015\Projects\Zamanlayici\Zamanlayici\obj\Debug\Zamanlayici.pdb
+C:\Users\DELL-PC\Downloads\Zamanlayici\Zamanlayici\bin\Debug\Zamanlayici.exe.config
+C:\Users\DELL-PC\Downloads\Zamanlayici\Zamanlayici\bin\Debug\Zamanlayici.exe
+C:\Users\DELL-PC\Downloads\Zamanlayici\Zamanlayici\bin\Debug\Zamanlayici.pdb
+C:\Users\DELL-PC\Downloads\Zamanlayici\Zamanlayici\bin\Debug\Common.Logging.Core.dll
+C:\Users\DELL-PC\Downloads\Zamanlayici\Zamanlayici\bin\Debug\Common.Logging.dll
+C:\Users\DELL-PC\Downloads\Zamanlayici\Zamanlayici\bin\Debug\Quartz.dll
+C:\Users\DELL-PC\Downloads\Zamanlayici\Zamanlayici\bin\Debug\Common.Logging.pdb
+C:\Users\DELL-PC\Downloads\Zamanlayici\Zamanlayici\bin\Debug\Common.Logging.xml
+C:\Users\DELL-PC\Downloads\Zamanlayici\Zamanlayici\bin\Debug\Common.Logging.Core.pdb
+C:\Users\DELL-PC\Downloads\Zamanlayici\Zamanlayici\bin\Debug\Common.Logging.Core.xml
+C:\Users\DELL-PC\Downloads\Zamanlayici\Zamanlayici\bin\Debug\Quartz.pdb
+C:\Users\DELL-PC\Downloads\Zamanlayici\Zamanlayici\bin\Debug\Quartz.xml
+C:\Users\DELL-PC\Downloads\Zamanlayici\Zamanlayici\obj\Debug\Zamanlayici.csprojAssemblyReference.cache
+C:\Users\DELL-PC\Downloads\Zamanlayici\Zamanlayici\obj\Debug\Zamanlayici.csproj.CoreCompileInputs.cache
+C:\Users\DELL-PC\Downloads\Zamanlayici\Zamanlayici\obj\Debug\Zamanlayici.csproj.CopyComplete
+C:\Users\DELL-PC\Downloads\Zamanlayici\Zamanlayici\obj\Debug\Zamanlayici.exe
+C:\Users\DELL-PC\Downloads\Zamanlayici\Zamanlayici\obj\Debug\Zamanlayici.pdb
